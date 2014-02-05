@@ -16,9 +16,17 @@ public class HelloWorld {
 	char m;
 	m="metge"
 		
+<<<<<<< HEAD
 //supprimer
 char ajout;
 ajout="a";
+=======
+		char f;
+		f="merge2"
+		
+		char ajout2;
+		ajout2="aj";
+>>>>>>> origin/merge
     }
 
 }
