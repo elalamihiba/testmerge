@@ -9,6 +9,8 @@ public class HelloWorld {
 		b="hiba";
 		System.out.println("%s",b);
 		
+		char d ;
+		d="imane";
     }
 
 }
