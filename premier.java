@@ -18,6 +18,9 @@ public class HelloWorld {
 		
 		char f;
 		f="merge2"
+		
+		char ajout2;
+		ajout2="aj";
     }
 
 }
