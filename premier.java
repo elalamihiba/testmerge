@@ -16,7 +16,8 @@ public class HelloWorld {
 	char m;
 	m="metge"
 		
-		
+		char f;
+		f="merge2"
     }
 
 }
