@@ -14,7 +14,8 @@ public class HelloWorld {
 	char t;
 	t="apapap"
 		
-		
+		char f;
+		f="merge2"
     }
 
 }
