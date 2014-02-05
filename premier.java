@@ -9,6 +9,9 @@ public class HelloWorld {
 		b="hiba";
 		System.out.println("%s",b);
 		
+		int d;
+		d=5;
+		
 	char b;
 	b="oups";
 	char t;
