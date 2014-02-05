@@ -11,6 +11,8 @@ public class HelloWorld {
 		
 	char b;
 	b="oups";
+	char t;
+	t="apapap"
 		
 		
     }
