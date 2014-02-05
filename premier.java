@@ -13,6 +13,8 @@ public class HelloWorld {
 	b="oups";
 	char t;
 	t="apapap"
+	char m;
+	m="metge"
 		
 		
     }
