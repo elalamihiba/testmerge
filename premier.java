@@ -17,6 +17,8 @@ public class HelloWorld {
 	m="metge"
 		
 //supprimer
+char ajout;
+ajout="a";
     }
 
 }
